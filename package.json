@@ -1,0 +1,24 @@
+{
+  "name": "squarereactapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric & Tyler",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "prettier": "^1.15.3",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-emotion": "^10.0.0",
+    "react-router": "^4.3.1",
+    "redux": "^4.0.1",
+    "ts-node": "^7.0.1",
+    "tslint": "^5.12.0",
+    "typescript": "^3.2.2",
+    "webpack": "^4.28.0"
+  }
+}
