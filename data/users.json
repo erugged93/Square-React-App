@@ -1,0 +1,23 @@
+{
+    "companyCount": 2,
+    "users":[
+    {
+      "userName": "eric",
+      "password": "eric",
+      "email": "eric.ruggieri@gatherhere.com",
+      "companyId": 1
+    },
+    {
+      "userName": "tyler",
+      "password": "tyler",
+      "email": "tyler.campbell@gatherhere.com",
+      "companyId": 2
+    },
+    {
+        "userName": "tom",
+        "password": "tom",
+        "email": "tom.merrihew@gatherhere.com",
+        "companyId": 3
+      }
+  ]
+}
